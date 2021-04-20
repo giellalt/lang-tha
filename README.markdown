@@ -1,6 +1,10 @@
 The Thai morphology and tools
 ==========================================
 
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tha)](https://github.com/giellalt/lang-tha/issues)
+[![Build Status](https://github.com/giellalt/lang-tha/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tha/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-tha)](https://raw.githubusercontent.com/giellalt/lang-tha/develop/LICENSE)
+
 This repository contains finite state source files for the Thai language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under GPLv3
@@ -8,10 +12,6 @@ licence, also detailed in the
 [LICENCE](https://github.com/giellalt/lang-tha/blob/develop/LICENCE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
-
-[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tha)](https://github.com/giellalt/lang-tha/issues)
-[![Build Status](https://github.com/giellalt/lang-tha/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tha/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-tha)](https://raw.githubusercontent.com/giellalt/lang-tha/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-tha)
 for the Thai language by using the [Divvun Installer](http://divvun.no)
