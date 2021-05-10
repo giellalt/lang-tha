@@ -1,7 +1,7 @@
 # Thai documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/lang-tha)](https://raw.githubusercontent.com/giellalt/lang-tha/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tha)](https://raw.githubusercontent.com/giellalt/lang-tha/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tha)](https://github.com/giellalt/lang-tha/issues)
 [![Build status](https://github.com/giellalt/lang-tha/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tha/actions)
 
