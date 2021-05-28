@@ -3,13 +3,13 @@ The Thai morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tha)](https://github.com/giellalt/lang-tha/issues)
 [![Build Status](https://github.com/giellalt/lang-tha/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tha/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-tha)](https://raw.githubusercontent.com/giellalt/lang-tha/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tha)](https://raw.githubusercontent.com/giellalt/lang-tha/main/LICENSE)
 
 This repository contains finite state source files for the Thai language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under GPLv3
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-tha/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-tha/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-tha.git/trunk lang-tha
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-tha/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-tha/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
