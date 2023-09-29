@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-tha)](https://github.com/giellalt/lang-tha/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tha)](https://github.com/giellalt/lang-tha/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-tha/main/badge.svg)](https://github.com/giellalt/lang-tha/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-tha/main/badge.svg)](https://github.com/giellalt/lang-tha/actions)
 
 This page documents the work on the **Thai language model**. 
 
