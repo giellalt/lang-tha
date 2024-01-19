@@ -2,7 +2,7 @@
 <hfstspeller dtdversion="1.0" hfstversion="3">
   <info>
     <locale>th</locale>
-    <title>Giellatekno/Divvun/UiT fst-based speller for Thai</title>
+    <title>Thai</title>
     <description>This is an fst-based speller for Thai. It is based
     on the normative subset of the morphological analyser for Thai.
     The source code can be found at:
