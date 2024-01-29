@@ -1,4 +1,4 @@
-name = "Thai"
+name = "@GLANGUAGE@"
 version = "@SPELLERVERSION@"
 
 # Name of the speller package in various languages.
