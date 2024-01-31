@@ -1,6 +1,18 @@
 name = "Thai"
 version = "0.1.0"
 
+# Name of the speller package in various languages.
+# The default is English + autonym:
+[speller.name]
+en = "Thai spellchecker"
+th = "Autonym spellchecker"
+
+# Description of the speller package in various languages.
+# The default is English + autonym:
+[speller.description]
+en = "A spellchecker for Thai, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+th = "TRANSLATE: A spellchecker for Thai, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+
 [macos]
 system_pkg_id = "no.divvun.MacDivvun.th"
 
