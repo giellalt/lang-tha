@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-tha%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-tha)](https://github.com/giellalt/lang-tha/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tha)](https://github.com/giellalt/lang-tha/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-tha/main/badge.svg)](https://github.com/giellalt/lang-tha/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-tha?label=CI)](https://builds.giellalt.org/pipelines/lang-tha/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/thai1261)
 
 This page documents the work on the **Thai language model**. 
 
