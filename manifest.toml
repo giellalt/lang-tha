@@ -29,5 +29,5 @@ name = "Thai"
 version = "0.1.0"
 
 [package.hyphenator]
-name = "__UNDEFINED__"
+name = "Thai"
 version = "0.1.0"
